@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "JetBrainsMono",
+    "previewText": "Monospace programming font developed by JetBrains",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/raidontpaizer/fonts/blob/33ef080e0050264e58b48dd443244932885fca13/JetBrainsMono/JetBrainsMono-SemiBold.ttf?raw=1"
+    }
+}
